@@ -16,5 +16,5 @@ const TaskInput = ({ addTask }) => {
     </div>
   );
 };
-
+//Dodawanie zmiany 
 export default TaskInput;
