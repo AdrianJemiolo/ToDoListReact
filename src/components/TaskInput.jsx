@@ -17,4 +17,5 @@ const TaskInput = ({ addTask }) => {
   );
 };
 //Dodawanie zmiany 
+//zmaina 2
 export default TaskInput;
